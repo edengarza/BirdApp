@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "senderUsername": "Bestie",
+        "receiverUsername": "Eden",
+        "content": "Hello"
+    },
+    {
+        "id": 1,
+        "senderUsername": "Oomf",
+        "receiverUsername": "Eden",
+        "content": "Omg have you seen this?"
+    },
+    {
+        "id": 2,
+        "senderUsername": "Hater",
+        "receiverUsername": "Eden",
+        "content": "Can you delete your account already?"
+    }
+]

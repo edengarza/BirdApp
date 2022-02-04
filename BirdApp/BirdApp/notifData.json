@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "type": "like",
+        "icon": "heart.fill",
+        "username": "Bestie",
+        "eepId": 1
+    },
+    {
+        "id": 1,
+        "type": "reshare",
+        "icon": "arrowshape.zigzag.right.fill",
+        "username": "Oomf",
+        "eepId": 0
+    },
+    {
+        "id": 2,
+        "type": "follow",
+        "icon": "person.fill",
+        "username": "Hater",
+        "eepId": 0
+    }
+]
